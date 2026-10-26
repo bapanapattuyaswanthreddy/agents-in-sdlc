@@ -37,6 +37,7 @@ Tailspin Toys 需要一个能够回答实际目录问题、承认信息缺失，
    ```
 
 3. 运行 `azd config show` 验证 Azure 订阅。如果为空或不正确，请使用 `azd config set defaults.subscription <subscription-id>` 更新，然后再次运行 `azd config show` 确认更改。
+
 ## 生成 Backer Concierge 的初始框架
 
 Canvas 会生成代码、文件夹结构以及根目录下的 `azure.yaml`，将 Backer Concierge 连接到已有的模型部署。

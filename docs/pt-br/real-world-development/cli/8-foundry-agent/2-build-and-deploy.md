@@ -128,7 +128,7 @@ Com os testes de aceitação locais aprovados, você está pronto para implantar
     Continue with the Microsoft Foundry Skill workflow. Review the hosted agent for deployment readiness, then deploy it to Microsoft Foundry, show the deployment status and playground link, and invoke it remotely with: "I love puzzle games about tracking down bugs. What should I back?"
     ```
 
-3. Se for solicitado que você selecione uma fonte para a suíte de avaliação, escolha **Não, configurar mais tarde**.
+3. Se for solicitado que você selecione uma fonte para a suíte de avaliação, escolha **No, set it up later**.
 
     ![Status da implantação do agente hospedado e link do playground](../../../../_images/cli-8-hosted-agent-deployment.png)
 

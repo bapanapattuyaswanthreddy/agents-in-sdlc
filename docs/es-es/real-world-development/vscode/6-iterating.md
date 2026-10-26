@@ -45,7 +45,7 @@ Los controles de alto contraste y modo claro que has implementado con el agente 
 
 ## Ejercicio opcional: seguir explorando localmente
 
-Trabajar de forma iterativa con un agente en el IDE es una habilidad, y la única forma de desarrollarla es repetir. Algunas ideas para próximas sesiones que puedes realizar desde VS Code:
+Trabajar de forma iterativa con un agente en el IDE es una habilidad que solo se desarrolla con la práctica. Algunas ideas para próximas sesiones que puedes realizar desde VS Code:
 
 - Añadir un formulario de interés para patrocinadores en la página de detalles del juego.
 - Implementar la paginación en la página de la lista de juegos.
@@ -66,12 +66,12 @@ Trabajar de forma iterativa con un agente en el IDE es una habilidad, y la únic
 
 Aquí termina el itinerario obligatorio de VS Code. Puedes parar aquí con el taller completo.
 
-Si quieres ampliar tu perspectiva sobre las capacidades de los agentes de Copilot, los otros itinerarios cubren escenarios relacionados a través de distintas interfaces:
+Si quieres ampliar tu perspectiva sobre las capacidades de los agentes de Copilot, los otros itinerarios cubren escenarios relacionados desde distintas interfaces:
 
-- 💻 **[Itinerario de CLI](../../cli/)**: realiza flujos similares desde el terminal con Copilot CLI: modo plan, habilidades de agente, agentes personalizados y comandos de barra como `/share`, `/context` y `/delegate`.
-- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones a través de la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
+- 💻 **[Itinerario de CLI](../../cli/)**: entrega dos cambios revisados desde el terminal con los modos Plan y Autopilot, aptitudes de agente, un agente personalizado de QA, Playwright MCP, Agent Merge y transferencias con contexto.
+- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones desde la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
 
-También puedes seguir ampliando lo que has empezado aquí. [awesome-copilot][awesome-copilot] es una gran fuente de archivos de instrucciones, agentes personalizados y habilidades que puedes adaptar a tus propios proyectos.
+También puedes seguir ampliando lo que has empezado aquí. [awesome-copilot][awesome-copilot] es una gran fuente de archivos de instrucciones, agentes personalizados y aptitudes de agente que puedes adaptar a tus propios proyectos.
 
 Como ampliación opcional, [Opcional: Incorporar Foundry][exercise-7] utiliza VS Code y Microsoft Foundry Toolkit para preparar un modelo, implementar un Backer Concierge y conectarlo al sitio.
 

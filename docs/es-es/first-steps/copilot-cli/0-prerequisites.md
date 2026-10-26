@@ -61,7 +61,7 @@ La disponibilidad de los modelos depende de tu plan, de la directiva de la organ
 
 ## Resumen y pasos siguientes
 
-Copilot CLI está instalado y ejecutándose en una carpeta `space-quiz` vacía, y has iniciado sesión. Continúa con la [lección 1: Crear el cuestionario desde la terminal][next-lesson].
+Copilot CLI está instalado, has iniciado sesión y se está ejecutando en una carpeta `space-quiz` vacía. Continúa con la [lección 1: Crear el cuestionario desde la terminal][next-lesson].
 
 [github-signup]: https://github.com/signup
 [copilot-plans]: https://github.com/features/copilot/plans

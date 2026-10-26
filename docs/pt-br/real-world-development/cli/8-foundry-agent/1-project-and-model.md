@@ -49,7 +49,7 @@ Você usará o Azure para hospedar o Backer Concierge e o Copilot CLI para orien
     azd ext install microsoft.foundry
     ```
 
-8. Abra uma nova sessão do Copilot CLI ao lado pela paleta de comandos. Pressione <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Mac) ou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Windows/Linux) e selecione **Chat: Nova sessão do Copilot CLI ao lado**.
+8. Abra uma nova sessão do Copilot CLI ao lado pela paleta de comandos. Pressione <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Mac) ou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Windows/Linux) e selecione **Chat: New Copilot CLI session to the side**.
 9. Adicione o marketplace do Azure Skills. Você só precisa fazer isso na primeira instalação do plugin:
 
     ```text
